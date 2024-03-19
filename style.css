@@ -1,0 +1,21 @@
+header {
+    background-color: red;
+}
+h1 {
+    color: black;
+}
+table{
+    color: rgb(14, 1, 14);
+    background-color: purple;
+    font-family: 'Arial', sans-serif;
+}
+button{
+    color: rgb(143, 143, 143);
+}
+.item{
+    flex: 2;    
+}
+img{
+    min-height: fit-content;
+    width: fit-content;
+}
